@@ -1,5 +1,5 @@
 # CS3560Project
-Group Project for CS3560
+I am the lead of the Group Project for CS3560. All code available here.
 
 ## Setup
 VM Arguments:
